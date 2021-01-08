@@ -1,0 +1,7 @@
+{
+    "configAPI": {
+        "APIKey": "APIKEY",
+        "xrapidapikey": "x-rapid-API-Key",
+        "URL": "http://api.openweathermap.org/data/2.5/weather"
+    }
+}
